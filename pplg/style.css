@@ -1,0 +1,8 @@
+.banner-image {
+  background-image: url("img/yuhu.img.jpg");
+  background-size: cover;
+}
+
+.card img .card-img-top {
+  align-content: center;
+}
